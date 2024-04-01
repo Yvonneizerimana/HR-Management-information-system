@@ -5,4 +5,4 @@
 .i used html, css, bootstrap and javascript as technologies
 
 .i minimized only pages you mentioned in the link we've given on Figma account
-.even resiponsivenes not well as it is because of a short time we have given
+.even this fronted is not responsive according to the short time we have given, i didn't tried to set every division or everything as it is in order to make it responsive. so if i got a chance to extend time like a day i can do it properly
